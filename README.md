@@ -1,3 +1,6 @@
+## Hi there 👋
+
+
 ### :man_technologist: About Me :
 
 - 🖥️ 🧪  I’m a Computational Chemist going deeper and deeper into coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
