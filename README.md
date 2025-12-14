@@ -3,7 +3,7 @@
 
 ### :man_technologist: About Me :
 
-- 🖥️ 🧪  I’m a Computational Chemist going deeper and deeper into coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🖥️ 🧪  I’m a Computational Chemist going deeper and deeper into IT <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :mailbox: Reach me on Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-andreaalbino-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-albino-83928920a/)
 
